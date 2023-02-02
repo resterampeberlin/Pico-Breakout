@@ -6,6 +6,8 @@
               
 # Purpose
 
+![PCB](img/Pico-Breakout.png)
+
 # Credits
 
 This open source code project is has been proudfully produced in Berlin (and other places around the globe) by

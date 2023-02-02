@@ -902,7 +902,7 @@
     (uuid 7e016cea-062f-4f87-855a-68c5d7a4679a)
     (property "Reference" "U101" (id 0) (at 140.97 66.675 0))
     (property "Value" "Pico" (id 1) (at 140.97 69.215 0))
-    (property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_TH" (id 2) (at 140.97 98.425 90)
+    (property "Footprint" "Pico:RPi_Pico_Stacking_TH" (id 2) (at 140.97 98.425 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 140.97 98.425 0)
@@ -1080,7 +1080,7 @@
       (reference "J102") (unit 1) (value "Conn_01x20") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
     )
     (path "/7e016cea-062f-4f87-855a-68c5d7a4679a"
-      (reference "U101") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_TH")
+      (reference "U101") (unit 1) (value "Pico") (footprint "Pico:RPi_Pico_Stacking_TH")
     )
   )
 )
